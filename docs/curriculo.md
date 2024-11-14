@@ -1,3 +1,3 @@
 #Bom dia!
 
-Estou testando o md.
+Estou testando o md. Não estou conseguindo usar o merge...
