@@ -64,10 +64,16 @@ theme:
           accent: lime
 
 nav:
-    - Introduction:
-        - Welcome: index.md
-    - Curriculo:
+    - Introdução:
+        - index.md
+    - Portfólio:
         - curriculo.md
+    - Jogo da Forca:
+        - JogoDaForca.md
+    - Jogo da Velha:
+        - JogoDaVelha.md
+    - Paradoxo Monty Hall:
+        - MontyHall.md
 
 markdown_extensions:
     - md_in_html
@@ -84,4 +90,4 @@ markdown_extensions:
 
 # Configuration
 repo_url: https://github.com/FelipeBStefens/Teste-Final-Git.git
-repo_name: Portifolio Felipe
+repo_name: Portfolio Felipe
